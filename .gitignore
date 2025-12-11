@@ -1,0 +1,30 @@
+# Ignore everything first
+*
+
+# Then allow specific files and folders
+!README.md
+
+# Source code
+!script/
+!script/**
+
+# prompts
+!prompt/
+!prompt/*.md
+
+# plots
+!plots/
+!plots/*.py
+
+# Documentation
+!doc/
+!doc/**
+
+# Git and project files
+!.gitignore
+
+# Python cache
+__pycache__/
+
+# macOS files
+.DS_Store
