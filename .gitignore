@@ -3,6 +3,7 @@
 
 # Then allow specific files and folders
 !README.md
+!approaches_illustration.png
 
 # Source code
 !script/
