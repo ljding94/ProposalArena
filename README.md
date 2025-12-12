@@ -1,6 +1,9 @@
 # ProposalArena
-
+[![arXiv](https://img.shields.io/badge/arXiv-2512.10895-b31b1b.svg)](https://arxiv.org/abs/2512.10895)
 ProposalArena is a framework designed to evaluate, compare, and rank research proposals using Large Language Models (LLMs). Specifically tailored for neutron science beamlines (e.g., BL-11A, BL-5, BL-6), this project aims to assess the alignment between LLM-generated evaluations and historical human reviewer rankings, as well as outcome metrics like publication counts.
+
+![Approaches Illustration](./approaches_illustration.png)
+
 
 ## Features
 
@@ -78,5 +81,5 @@ The project employs a pairwise comparison approach for evaluation:
 
 ## License
 
-[Insert License Information Here]
+MIT License?
 
